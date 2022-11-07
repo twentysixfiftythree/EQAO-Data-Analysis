@@ -1,0 +1,476 @@
+id,School Name,School Size,School Town,Postal Code,Applied EQAO Achievement,Academic EQAO Achievement
+339,Ajax HS,"1,137",Ajax,L1S 1P2,0.34,0.73
+340,Anderson C &amp; VI,866,Whitby,L1N 3V6,0.35,0.85
+341,Brock HS,366,Cannington,L0E 1E0,0.47,0.79
+343,Donald A. Wilson SS,"1,217",Whitby,L1P 1Y1,0.71,0.9
+345,Dunbarton HS,"1,465",Pickering,L1V 1G2,0.42,0.84
+346,Eastdale C &amp; VI,"1,023",Oshawa,L1G 6L4,0.39,0.64
+347,G L Roberts C &amp; VI,406,Oshawa,L1J 1G5,0.52,0.93
+348,Henry Street HS,739,Whitby,L1N 5C7,0.83,0.86
+349,J Clarke Richardson Collegiate,"1,758",Ajax,L1T 4G8,0.46,0.87
+350,O'Neill C &amp; VI,"1,230",Oshawa,L1G 4T2,0.49,0.82
+352,Pickering HS,"1,877",Ajax,L1T 2W7,0.45,0.81
+353,Pine Ridge SS,"1,053",Pickering,L1X 1V4,0.34,0.72
+354,Port Perry HS,"1,072",Port Perry,L9L 1L7,0.54,0.85
+355,R S Mclaughlin C &amp; VI,"1,029",Oshawa,L1J 5P1,0.61,0.88
+356,Sinclair SS,"1,379",Whitby,L1R 2K5,0.52,0.85
+357,Uxbridge SS,"1,201",Uxbridge,L9P 1K5,0.79,0.89
+359,Adam Scott C &amp; VI,911,Peterborough,K9H 6K3,0.43,0.78
+360,Bowmanville HS,957,Bowmanville,L1C 2L8,0.55,0.88
+361,Campbellford DHS,501,Campbellford,K0L 1L0,0.62,0.83
+363,Clarke HS,255,Newcastle,L1B 1L9,0.46,0.84
+364,Clarington Central Secondary S,744,Bowmanville,L1C 5N8,0.45,0.77
+367,Courtice SS,764,Courtice,L1E 2L8,0.69,0.91
+368,Crestwood SS,650,Peterborough,K9J 6X4,0.48,0.87
+369,East Northumberland SS,916,Brighton,K0K 1H0,0.53,0.79
+370,Kenner C &amp; VI,500,Peterborough,K9J 5J2,0.54,0.93
+372,Norwood District HS,248,Norwood,K0L 2V0,0.46,0.62
+374,Port Hope HS,302,Port Hope,L1A 2A3,0.45,0.7
+375,Thomas A Stewart SS,"1,135",Peterborough,K9H 2H2,0.41,0.77
+377,Bracebridge and Muskoka Lakes SS,808,Bracebridge,P1L 2E9,0.69,0.89
+378,Fenelon Falls SS,652,Fenelon Falls,K0M 1N0,0.4,0.83
+379,Gravenhurst HS,334,Gravenhurst,P1P 1X7,0.61,0.9
+380,Haliburton Highlands SS,459,Haliburton,K0M 1S0,0.53,0.83
+381,Huntsville HS,864,Huntsville,P1H 2A2,0.5,0.82
+382,I E Weldon SS,"1,053",Lindsay,K9V 4R6,0.47,0.82
+383,Lindsay C &amp; VI,609,Lindsay,K9V 2Z5,0.66,0.75
+385,Aurora HS,"1,367",Aurora,L4G 2P4,0.58,0.94
+386,Bayview SS,"1,809",Richmond Hill,L4C 2L4,0.53,0.95
+387,Pierre Elliott Trudeau HS,"1,891",Markham,L6C 2E6,0.45,0.96
+388,Alexander Mackenzie HS,"1,081",Richmond Hill,L4C 3S3,0.38,0.88
+389,Dr John M Denison SS,843,Newmarket,L3Y 8J7,0.4,0.87
+390,Dr G W Williams SS,769,Aurora,L4G 1A2,0.28,0.91
+391,Emily Carr Secondary S,"1,663",Woodbridge,L4H 3C2,0.42,0.84
+392,Huron Heights SS,"1,235",Newmarket,L3Y 3J9,0.36,0.84
+393,Keswick High School,920,Keswick,L4P 3L5,0.41,0.72
+394,King City SS,995,King City,L7B 1K2,0.46,0.84
+395,Langstaff SS,873,Richmond Hill,L4C 6M1,0.36,0.85
+396,Markville SS,"1,424",Markham,L3P 7P5,0.63,0.97
+397,Markham DHS,"1,567",Markham,L3P 2M3,0.41,0.89
+398,Middlefield CI,"1,403",Markham,L3S 3L5,0.71,0.92
+399,Milliken Mills HS,"1,003",Unionville,L3R 9S5,0.51,0.94
+400,Newmarket HS,"1,361",Newmarket,L3Y 8H1,0.58,0.89
+401,Bur Oak Secondary S,"1,580",Markham,L6E 1G4,0.62,0.97
+402,Richmond Hill High School,"1,709",Richmond Hill,L4S 1A2,0.53,0.93
+403,Bill Crothers Secondary S,"1,497",Unionville,L3R 2E4,0.71,0.86
+404,Sir William Mulock SS,"1,294",Newmarket,L3X 2M7,0.56,0.84
+405,Stouffville District SS,"1,212",Stouffville,L4A 0A4,0.49,0.87
+406,Stephen Lewis SS,"1,440",Thornhill,L4J 8X2,0.46,0.91
+407,Sutton DHS,505,Sutton,L0E 1R0,0.4,0.58
+408,Thornhill SS,"1,066",Thornhill,L3T 2E5,0.49,0.9
+409,Thornlea SS,918,Thornhill,L3T 4N4,0.45,0.88
+410,Unionville HS,"1,532",Unionville,L3R 8G5,0.56,0.95
+411,Vaughan SS,"1,130",Thornhill,L4J 7R4,0.44,0.89
+412,Maple High School,"1,273",Maple,L6A 2W5,0.41,0.89
+413,Westmount CI,"1,362",Thornhill,L4J 8G3,0.48,0.89
+414,Woodbridge College,517,Woodbridge,L4L 1J3,0.32,0.79
+415,Richmond Green Secondary S,"1,231",Richmond Hill,L4S 2T9,0.51,0.89
+416,Banting Memorial HS,"1,376",Alliston,L9R 1G5,0.46,0.78
+418,Barrie North Collegiate CI,"1,140",Barrie,L4M 2P3,0.41,0.84
+419,Bear Creek Secondary School,"1,533",Barrie,L4N 9M5,0.47,0.83
+420,Bradford DHS,"1,120",Bradford,L3Z 3B9,0.47,0.85
+423,Collingwood CI,"1,422",Collingwood,L9Y 2J2,0.38,0.84
+425,Eastview SS,"1,390",Barrie,L4M 5S1,0.56,0.9
+426,Elmvale DHS,400,Elmvale,L0L 1P0,0.45,0.66
+427,Innisdale SS,"1,722",Barrie,L4N 2Z4,0.3,0.73
+429,Nantyr Shores SS,"1,160",Innisfil,L9S 1W2,0.32,0.72
+435,Stayner CI,295,Stayner,L0M 1S0,0.29,0.64
+436,Twin Lakes SS,807,Orillia,L3V 2P5,0.28,0.77
+439,Centennial C &amp; VI,"1,511",Guelph,N1G 1S9,0.61,0.93
+440,Centre Dufferin DHS,821,Shelburne,L0N 1S1,0.53,0.92
+442,Erin DHS,474,Erin,N0B 1T0,0.69,0.9
+443,Centre Wellington DHS,"1,247",Fergus,N1M 1Y7,0.74,0.9
+444,Guelph C &amp; VI,"1,555",Guelph,N1H 2P3,0.55,0.91
+445,John F Ross C &amp; VI,"2,033",Guelph,N1E 4H1,0.77,0.92
+446,Norwell DSS,692,Palmerston,N0G 2P0,0.57,0.86
+447,Orangeville DSS,"1,184",Orangeville,L9W 2G7,0.58,0.89
+449,Westside SS,881,Orangeville,L9W 5A2,0.61,0.92
+450,Wellington Heights Secondary School,491,Mount Forest,N0G 2L2,0.48,0.75
+452,Applewood Heights SS,"1,176",Mississauga,L4Y 2M8,0.51,0.83
+453,Bramalea SS,"1,073",Brampton,L6T 1W4,0.44,0.78
+454,Brampton Centennial SS,"1,246",Brampton,L6Y 1Z4,0.43,0.87
+455,Cawthra Park SS,"1,298",Mississauga,L5G 4L1,0.4,0.84
+456,Central Peel SS,"1,216",Brampton,L6V 1X4,0.33,0.87
+457,Chinguacousy SS,"1,060",Brampton,L6S 1V3,0.59,0.88
+458,Clarkson SS,787,Mississauga,L5J 1L8,0.38,0.84
+459,Erindale SS,821,Mississauga,L5K 1R2,0.26,0.85
+460,Fletcher's Meadow SS,"1,726",Brampton,L7A 2Z7,0.49,0.84
+461,Glenforest SS,"1,117",Mississauga,L4X 2J6,0.34,0.87
+463,Heart Lake SS,"1,178",Brampton,L6Z 3M1,0.36,0.75
+464,Humberview Secondary School,"1,240",Bolton,L7E 3V8,0.23,0.8
+466,Peel Alternative North,36,Brampton,L6W 2L4,0.05,0.63
+467,Turner Fenton SS,"1,633",Brampton,L6W 0A2,0.37,0.88
+468,John Fraser SS,"1,569",Mississauga,L5M 5H6,0.43,0.94
+469,Lorne Park SS,968,Mississauga,L5H 3B1,0.32,0.86
+470,Mayfield SS,"1,866",Caledon,L7C 0Z5,0.34,0.81
+471,Mississauga Secondary School,"1,315",Mississauga,L5W 1L9,0.61,0.83
+472,Meadowvale SS,"1,094",Mississauga,L5N 3B2,0.41,0.86
+473,North Park SS,"1,296",Brampton,L6S 3M1,0.48,0.92
+474,Judith Nyman Secondary School,548,Brampton,L6S 3J8,0.12,0.9
+476,Port Credit SS,"1,165",Mississauga,L5G 2E5,0.58,0.9
+477,Rick Hansen SS,"1,559",Mississauga,L5V 1N6,0.46,0.85
+478,Sandalwood Heights,"1,181",Brampton,L6R 0K7,0.42,0.8
+480,Harold M. Brathwaite Secondary School,"1,407",Brampton,L6R 2Z4,0.45,0.89
+481,Streetsville SS,867,Mississauga,L5M 1G3,0.24,0.84
+482,Thomas L Kennedy SS,787,Mississauga,L5B 1N7,0.15,0.66
+483,West Credit SS,437,Mississauga,L5N 4G7,0.28,0.89
+484,Lincoln M. Alexander S.S.,914,Mississauga,L4T 1Y3,0.37,0.69
+485,The Woodlands School,888,Mississauga,L5C 1Y5,0.41,0.91
+487,Stephen Lewis SS,"1,559",Mississauga,L5M 7E6,0.4,0.84
+489,Acton DHS,432,Acton,L7J 2V2,0.47,0.86
+491,Aldershot HS,468,Burlington,L7T 1E5,0.7,0.86
+492,Burlington Central HS,594,Burlington,L7S 1K4,0.4,0.87
+495,Georgetown DHS,"1,533",Georgetown,L7G 3Z5,0.47,0.89
+496,Abbey Park High School,"1,237",Oakville,L6M 2G5,0.55,0.95
+497,Iroquois Ridge HS,"1,487",Oakville,L6H 5M1,0.55,0.96
+499,M M Robinson HS,705,Burlington,L7P 3N9,0.58,0.79
+500,Milton DHS,"1,143",Milton,L9T 2G4,0.52,0.88
+501,Nelson HS,"1,056",Burlington,L7L 1T3,0.5,0.94
+502,Oakville Trafalgar HS,"1,300",Oakville,L6J 3L6,0.6,0.95
+503,Robert Bateman High School,737,Burlington,L7L 1V3,0.47,0.92
+508,Thomas A Blakelock HS,"1,007",Oakville,L6L 1Y9,0.62,0.93
+509,White Oaks SS,"2,039",Oakville,L6H 1Z5,0.47,0.95
+511,Ancaster HS,"1,198",Ancaster,L9G 3K8,0.4,0.89
+515,Glendale SS,886,Hamilton,L8K 4G1,0.33,0.73
+516,Dundas Valley Secondary School,916,Dundas,L9H 5P8,0.47,0.84
+520,Orchard Park SS,979,Stoney Creek,L8E 4M5,0.6,0.91
+523,Saltfleet HS,"1,149",Stoney Creek,L8J 2T2,0.46,0.84
+524,Sherwood SS,"1,104",Hamilton,L8T 3Z4,0.35,0.78
+525,Sir Allan MacNab SS,"1,018",Hamilton,L9C 5P4,0.4,0.77
+527,Sir Winston Churchill SS,710,Hamilton,L8H 1E3,0.2,0.59
+528,Waterdown DHS,"1,198",Waterdown,L8B 1B9,0.5,0.85
+529,Westdale SS,"1,210",Hamilton,L8S 1A5,0.43,0.81
+530,Westmount SS,"1,397",Hamilton,L9C 4B1,0.49,0.83
+531,A N Myer SS,"1,216",Niagara Falls,L2J 1M7,0.7,0.88
+532,Beamsville DSS,488,Beamsville,L0R 1B0,0.5,0.83
+533,E L Crossley SS,786,Fonthill,L0S 1E0,0.68,0.83
+534,Eastdale SS,362,Welland,L3B 1B3,0.58,0.59
+535,Eden HS,831,St Catharines,L2N 4H7,0.58,0.88
+537,Governor Simcoe SS,839,St Catharines,L2N 2Z7,0.82,0.82
+538,Grimsby SS,901,Grimsby,L3M 1H6,0.56,0.9
+540,Laura Secord SS,620,St Catharines,L2M 4V9,0.57,0.95
+541,Port Colborne High School,433,Port Colborne,L3K 3K4,0.49,0.74
+543,Sir Winston Churchill SS,898,St Catharines,L2T 2N1,0.38,0.82
+545,St Catharines CI &amp; VS,573,St Catharines,L2R 5E7,0.46,0.88
+546,Stamford Collegiate,576,Niagara Falls,L2G 4L2,0.56,0.66
+547,Centennial SS,850,Welland,L3C 3W2,0.61,0.88
+548,Thorold SS,634,Thorold,L2V 1Z1,0.39,0.72
+550,Westlane SS,657,Niagara Falls,L2H 1T5,0.54,0.85
+552,Brantford CI &amp; VS,"1,270",Brantford,N3T 3H3,0.37,0.82
+553,McKinnon Park SS,760,Caledonia,N3W 2H2,0.41,0.71
+554,Cayuga SS,491,Cayuga,N0A 1E0,0.44,0.81
+555,Delhi DSS,531,Delhi,N4B 2B6,0.45,0.9
+556,Dunnville SS,416,Dunnville,N1A 2S5,0.4,0.71
+557,Hagersville SS,491,Hagersville,N0A 1H0,0.52,0.85
+559,North Park C &amp; VS,"1,112",Brantford,N3R 4L1,0.64,0.9
+560,Paris DHS,818,Paris,N3L 2N6,0.55,0.83
+561,Pauline Johnson C &amp; VS,849,Brantford,N3S 3M8,0.45,0.75
+562,Simcoe Comp S,721,Simcoe,N3Y 2E5,0.56,0.88
+563,Valley Heights SS,458,Langton,N0E 1G0,0.57,0.73
+564,Waterford DHS,406,Waterford,N0E 1Y0,0.37,0.49
+565,Bluevale CI,"1,295",Waterloo,N2J 3R5,0.59,0.87
+566,Cameron Heights CI,"1,850",Kitchener,N2G 2P8,0.65,0.87
+567,Eastwood CI,"1,404",Kitchener,N2H 1H6,0.34,0.64
+568,Elmira DSS,"1,300",Elmira,N3B 1K2,0.84,0.93
+569,Forest Heights CI,"1,069",Kitchener,N2M 4X8,0.37,0.69
+570,Galt C &amp; VI,967,Cambridge,N1R 6V2,0.53,0.81
+571,Glenview Park SS,882,Cambridge,N1R 4G6,0.4,0.75
+572,Grand River CI,"1,225",Kitchener,N2B 2S7,0.51,0.84
+573,Huron Heights SS,"1,533",Kitchener,N2R 1S3,0.56,0.81
+574,Jacob Hespeler SS,"1,140",Cambridge,N3C 1Z2,0.56,0.84
+575,Kitchener Waterloo C &amp; VS,"1,329",Kitchener,N2G 1E3,0.54,0.87
+576,Preston HS,"1,061",Cambridge,N3H 2E6,0.53,0.85
+577,Sir John A Macdonald SS,"1,443",Waterloo,N2V 2V1,0.52,0.9
+578,Southwood SS,752,Cambridge,N1S 4K3,0.68,0.79
+579,Waterloo CI,"1,325",Waterloo,N2L 3P2,0.33,0.89
+580,Waterloo-Oxford DSS,"1,342",Baden,N3A 1A4,0.51,0.89
+581,A Y Jackson SS,774,Kanata,K2L 1H7,0.44,0.92
+582,Bell HS,930,Nepean,K2H 6K1,0.32,0.79
+583,Brookfield HS,574,Ottawa,K1V 6J3,0.34,0.78
+584,Canterbury HS,"1,248",Ottawa,K1G 3A7,0.43,0.89
+585,Colonel By SS,"1,136",Gloucester,K1J 7N4,0.57,0.94
+586,Earl of March SS,"1,267",Kanata,K2K 1Y4,0.48,0.93
+587,Cairine Wilson SS,781,Orleans,K1C 2Z5,0.46,0.83
+590,Glebe CI,"1,511",Ottawa,K1S 2C9,0.32,0.88
+591,Gloucester HS,"1,030",Gloucester,K1J 7N8,0.36,0.71
+592,Hillcrest HS,569,Ottawa,K1G 2L7,0.25,0.82
+593,John McCrae SS,"1,155",Nepean,K2J 4T2,0.71,0.95
+594,Lisgar CI,"1,075",Ottawa,K2P 0B9,0.36,0.91
+596,Merivale HS,640,Nepean,K2G 1E2,0.53,0.89
+597,Nepean HS,"1,113",Ottawa,K2A 3V8,0.6,0.92
+599,Osgoode Township HS,524,Metcalfe,K0A 2P0,0.53,0.82
+601,Ridgemont HS,738,Ottawa,K1V 7T3,0.22,0.72
+603,Sir Robert Borden HS,826,Nepean,K2H 8R1,0.33,0.88
+604,Sir Wilfrid Laurier SS,957,Orleans,K1E 3E8,0.49,0.84
+605,South Carleton HS,"1,031",Richmond,K0A 2Z0,0.82,0.95
+607,The Adult HS,"1,161",Ottawa,K1R 7N4,0.12,0.14
+609,West Carleton SS,"1,253",Dunrobin,K0A 1T0,0.76,0.96
+610,Woodroffe HS,858,Ottawa,K2B 7M8,0.21,0.64
+612,Almonte DHS,358,Almonte,K0A 1A0,0.41,0.7
+613,Athens DHS,129,Athens,K0E 1B0,0.2,0.58
+614,Brockville CI,516,Brockville,K6V 1P8,0.37,0.86
+615,Char Lan DHS,216,Williamstown,K0C 2J0,0.58,0.78
+617,Cornwall Collegiate VS,542,Cornwall,K6H 3H9,0.32,0.68
+618,Gananoque SS,338,Gananoque,K7G 1S8,0.53,0.85
+619,Glengarry DHS,236,Alexandria,K0C 1A0,0.48,0.87
+620,Seaway District HS,277,Iroquois,K0E 1K0,0.55,0.94
+621,North Dundas DHS,311,Chesterville,K0C 1H0,0.48,0.81
+622,North Grenville DHS,567,Kemptville,K0G 1J0,0.66,0.93
+624,Perth and District CI,526,Perth,K7H 2H3,0.42,0.86
+625,Rockland DHS,233,Rockland,K4K 1P6,0.52,0.69
+626,Russell High School,284,Russell,K4R 1C8,0.31,0.63
+627,Rideau DHS,253,Elgin,K0G 1E0,0.64,0.88
+628,Smiths Falls District CI,681,Smiths Falls,K7A 5M2,0.25,0.53
+629,South Grenville DHS,362,Prescott,K0E 1T0,0.34,0.75
+630,St. Lawrence Intermediate School,377,Cornwall,K6H 5Z8,0.3,0.5
+632,Tagwi SS,430,Avonmore,K0C 1C0,0.19,0.7
+633,Thousand Islands SS,648,Brockville,K6V 3H1,0.21,0.75
+634,Vankleek Hill CI,297,Vankleek Hill,K0B 1R0,0.25,0.77
+635,North Addington Education Centre,115,Cloyne,K0H 1K0,0.54,0.68
+636,Bayridge SS,680,Kingston,K7M 6J9,0.5,0.84
+637,Ernestown Secondary School,492,Odessa,K0H 2H0,0.34,0.55
+638,Frontenac SS,875,Kingston,K7M 4Y3,0.49,0.85
+641,La Salle SS,740,Kingston,K7L 4V3,0.52,0.83
+642,Loyalist C &amp; VI,801,Kingston,K7M 1B9,0.27,0.73
+643,Napanee DSS,854,Napanee,K7R 3M7,0.35,0.72
+646,Sydenham HS,657,Sydenham,K0H 2T0,0.72,0.83
+648,Arnprior DHS,590,Arnprior,K7S 1X2,0.59,0.83
+649,Mackenzie Community School - Secondary,258,Deep River,K0J 1P0,0.36,0.8
+651,Madawaska Valley DHS,368,Barry's Bay,K0J 1B0,0.45,0.8
+652,Fellowes HS,719,Pembroke,K8A 2K5,0.25,0.6
+653,Opeongo HS,388,Douglas,K0J 1S0,0.47,0.86
+654,Renfrew CI,359,Renfrew,K7V 1Z5,0.66,0.82
+656,Bayside SS,804,Belleville,K8N 4Z2,0.48,0.79
+657,Centennial SS,720,Belleville,K8P 4E1,0.4,0.82
+658,Centre Hastings SS,550,Madoc,K0K 2K0,0.53,0.83
+660,Eastside SS,579,Belleville,K8N 4M2,0.32,0.81
+661,North Hastings HS,448,Bancroft,K0L 1C0,0.28,0.67
+662,Prince Edward CI,512,Picton,K0K 2T0,0.35,0.72
+664,Trenton HS,542,Trenton,K8V 5N4,0.44,0.68
+665,École secondaire Georges-P.-Vanier,108,Hamilton,L8S 3S1,0.2,0.73
+667,École secondaire Étienne-Brûlé,291,North York,M2L 2V3,0.39,0.87
+668,École secondaire Jeunes Sans Frontières,368,Brampton,L6Y 5P4,0.65,0.9
+670,École secondaire Gabriel-Dumont,155,London,N6M 0B1,0.6,0.84
+671,Collège français,164,Toronto,M5B 1M3,0.42,0.92
+672,École secondaire Le Caron,118,Penetanguishene,L9M 1N8,0.22,0.76
+673,École secondaire publique l'Académie de la Seigneurie,71,Ottawa,K0A 1M0,0.8,0.9
+675,École secondaire publique Marc-Garneau,67,Trenton,K8V 1E4,0.9,0.9
+676,École secondaire publique Louis-Riel,456,Ottawa,K1B 4N3,0.61,0.95
+677,École secondaire publique Omer-Deslauriers,380,Ottawa,K2E 7E6,0.62,0.9
+678,École secondaire publique De La Salle,849,Ottawa,K1N 8R3,0.46,0.93
+679,École secondaire publique L’Héritage,143,Cornwall,K6H 1E1,0.63,0.94
+682,École secondaire publique Gisèle-Lalonde,653,Orléans,K4A 4X3,0.71,0.93
+685,École secondaire publique Le Sommet,283,Hawkesbury,K6A 3R5,0.76,0.92
+686,Sacred Heart HS,715,Walkerton,N0G 2V0,0.47,0.85
+687,St Mary's HS,883,Owen Sound,N4K 1X2,0.34,0.78
+688,St Anne's Catholic S,557,Clinton,N0M 1L0,0.49,0.77
+689,St Michael Catholic SS,777,Stratford,N5A 7W2,0.52,0.81
+690,Assumption College S,589,Windsor,N9C 2K7,0.55,0.91
+691,Cardinal Carter Catholic SS,515,Leamington,N8H 5C7,0.57,0.92
+692,Catholic Central,644,Windsor,N8X 2R7,0.58,0.87
+693,F J Brennan HS,681,Windsor,N8Y 4A6,0.62,0.92
+694,Holy Names HS,"1,258",Windsor,N9E 1A4,0.65,0.89
+695,St Joseph's HS,"1,081",Windsor,N8P 2A3,0.56,0.88
+696,St Anne/Sainte-Anne SS,"1,191",Belle River,N0R 1A0,0.59,0.92
+697,St Thomas of Villanova SS,"1,134",LaSalle,N9H 0K3,0.7,0.91
+699,Catholic Central High School,"1,115",London,N6B 3K3,0.33,0.73
+700,Holy Cross Catholic SS,427,Strathroy,N7G 4K6,0.48,0.71
+701,John Paul II Catholic SS,787,London,N5V 4P7,0.34,0.8
+702,Mother Teresa Secondary School,779,London,N5X 4B1,0.47,0.86
+703,Regina Mundi Catholic College,715,London,N6E 3X8,0.19,0.54
+704,St Joseph's HS,668,St Thomas,N5R 6A7,0.61,0.75
+705,St Mary's HS,589,Woodstock,N4V 1E8,0.47,0.81
+706,St Thomas Aquinas SS,764,London,N6H 1W2,0.62,0.81
+708,St Patrick's High School,"1,345",Sarnia,N7S 6K2,0.49,0.78
+709,Ursuline College (The Pines) S,"1,227",Chatham,N7L 1B6,0.59,0.83
+712,St. Oscar Romero,753,Toronto,M6N 2H4,0.31,0.73
+713,Bishop Allen Academy,"1,634",Toronto,M8Y 2T3,0.37,0.82
+714,St Mary Catholic Academy,621,Toronto,M6H 1J6,0.69,0.85
+715,Brebeuf College School,958,Willowdale,M2M 3Y6,0.46,0.85
+716,Bishop Marrocco/Thomas Merton Catholic SS,811,Toronto,M6P 1A3,0.4,0.7
+717,St. John Henry Newman,"1,091",Scarborough,M1M 3X4,0.31,0.79
+718,Cardinal Carter Academy for the Arts,659,Willowdale,M2N 3C8,0.31,0.93
+719,Chaminade College S,908,Toronto,M6L 1M8,0.37,0.88
+720,Dante Alighieri Academy Sep S,926,Toronto,M6B 2P9,0.34,0.67
+722,Father Henry Carr Catholic SS,904,Rexdale,M9V 3S4,0.82,0.82
+723,Francis Libermann Catholic HS,922,Scarborough,M1S 4G2,0.56,0.92
+724,James Cardinal McGuigan Catholic,829,North York,M3J 3G3,0.69,0.95
+725,Jean Vanier Catholic SS,934,Toronto,M1K 4G4,0.4,0.82
+726,Loretto Abbey Catholic SS,963,Toronto,M5M 3E2,0.28,0.79
+727,Loretto College S,467,Toronto,M6H 2N1,0.35,0.7
+728,Madonna Catholic SS,738,Toronto,M3K 1V5,0.35,0.8
+729,Marshall McLuhan Catholic SS,"1,080",Toronto,M5N 3B1,0.58,0.82
+730,Mary Ward Catholic SS,"1,066",Scarborough,M1V 3S8,0.46,0.83
+731,Michael Power/St Joseph HS,"1,941",Etobicoke,M9C 3Z7,0.53,0.83
+732,Fr John Redmond Catholic SS and Regional Arts Centre,"1,193",Etobicoke,M8V 4B7,0.64,0.92
+733,Monsignor Percy Johnson Catholic HS,978,Toronto,M9W 4K9,0.47,0.79
+734,St Mother Teresa Catholic Academy,450,Scarborough,M1B 3G5,0.6,0.77
+737,Neil McNeil HS,826,Toronto,M4E 3S2,0.58,0.88
+738,Notre Dame Catholic SS,670,Toronto,M4E 3E1,0.47,0.84
+739,St. John Paul II,"1,352",Scarborough,M1E 4P6,0.39,0.79
+740,Senator O'Connor College School,"1,413",Don Mills,M3A 3R2,0.4,0.8
+741,St Basil The Great College,"1,309",North York,M9M 3B2,0.35,0.78
+742,St Joseph College,808,Toronto,M5S 1C4,0.46,0.87
+743,St Joseph Morrow Park,477,Willowdale,M2M 3S4,0.48,0.85
+745,St Patrick Catholic SS,767,Toronto,M4J 1G3,0.57,0.88
+747,Holy Cross Catholic Secondary School,658,Peterborough,K9J 7M3,0.53,0.89
+748,Holy Trinity Catholic Secondary School,700,Courtice,L1E 2M8,0.49,0.85
+749,St. Mary Catholic Secondary School,894,Cobourg,K9A 5S9,0.54,0.84
+750,St. Peter Catholic Secondary School,"1,074",Peterborough,K9J 8M4,0.62,0.86
+751,St. Stephen Catholic Secondary School,"1,078",Bowmanville,L1C 3K2,0.7,0.87
+752,St. Thomas Aquinas Catholic Secondary School,302,Lindsay,K9V 0J8,0.71,0.86
+753,St Brother André CHS,"1,451",Markham,L3P 3K8,0.47,0.83
+754,Father Michael McGivney Catholic Academy,"1,088",Markham,L3S 3K8,0.39,0.88
+755,Holy Cross Catholic Academy HS,827,Woodbridge,L4L 1A5,0.45,0.74
+756,Cardinal Carter SS,"1,435",Aurora,L4G 0P9,0.48,0.84
+757,Our Lady Of the Lake C.H.S.,340,Keswick,L4P 2W6,0.43,0.61
+758,Sacred Heart Catholic HS,"1,112",Newmarket,L3Y 1R9,0.51,0.9
+759,St Augustine,"1,080",Markham,L6C 1S3,0.48,0.96
+760,St Elizabeth Catholic HS,"1,627",Thornhill,L4J 7X3,0.45,0.88
+761,St Jean de Brebeuf,"1,277",Woodbridge,L4H 2Y1,0.33,0.8
+762,St Joan of Arc Catholic HS,"1,249",Maple,L6A 1W9,0.27,0.76
+764,St Robert Catholic HS,"1,654",Thornhill,L3T 7P4,0.39,0.95
+765,Father Bressani Catholic HS,974,Woodbridge,L4L 3W4,0.36,0.81
+766,St Theresa of Lisieux CHS,"1,801",Richmond Hill,L4C 0E8,0.75,0.96
+767,Ascension of Our Lord SS,779,Mississauga,L4T 3H7,0.38,0.88
+768,Notre Dame,"1,483",Brampton,L6Z 4L5,0.41,0.88
+769,St. Joan of Arc Catholic SS,"1,064",Mississauga,L5M 7G2,0.44,0.84
+770,Father Michael Goetz Sep S,"1,228",Mississauga,L5B 3K6,0.42,0.81
+771,Holy Name of Mary SS,759,Mississauga,L5L 2B1,0.57,0.9
+772,Iona SS,816,Mississauga,L5J 2M4,0.51,0.83
+773,John Cabot Catholic SS,808,Mississauga,L4W 3L6,0.51,0.9
+775,Our Lady of Mount Carmel SS,"1,540",Mississauga,L5N 5J7,0.47,0.89
+776,Philip Pocock Catholic SS,"1,024",Mississauga,L4W 1J9,0.5,0.89
+777,Robert F Hall Catholic SS,910,Caledon East,L7C 0H3,0.56,0.81
+778,St. Aloysius Gonzaga Secondary School,"1,708",Mississauga,L5M 6R5,0.49,0.92
+779,St Augustine SS,"1,010",Brampton,L6Y 4T6,0.45,0.87
+780,St. Edmund Campion Secondary School,"1,818",Brampton,L7A 3C7,0.57,0.88
+781,St Francis Xavier SS,"1,876",Mississauga,L5R 3K3,0.39,0.91
+782,Loyola Catholic SS,"1,108",Mississauga,L5L 6B1,0.29,0.85
+783,St Joseph SS,"1,341",Mississauga,L5V 2B9,0.49,0.91
+784,St Marcellinus,"1,806",Mississauga,L5W 1L9,0.75,0.95
+785,St Marguerite d'Youville SS,"1,519",Brampton,L6R 2W5,0.63,0.8
+786,St Martin's Sep S,"1,111",Mississauga,L5C 1X2,0.49,0.83
+787,St Paul SS,424,Mississauga,L5E 1L8,0.49,0.87
+788,Cardinal Leger SS,"1,161",Brampton,L6W 3K5,0.39,0.9
+789,St Thomas Aquinas Sep S,"1,883",Brampton,L6S 6A2,0.56,0.79
+790,Holy Trinity HS,651,Bradford,L3Z 2B3,0.24,0.77
+791,Our Lady of the Bay Catholic High School,483,Collingwood,L9Y 4R1,0.49,0.81
+792,Patrick Fogarty SS,801,Orillia,L3V 6S1,0.48,0.84
+793,St Thomas Aquinas Catholic SS,636,Tottenham,L0G 1W0,0.39,0.76
+794,St Dominic Catholic SS,188,Bracebridge,P1L 0A1,0.52,0.89
+795,St. Joan of Arc Catholic HS,"1,078",Barrie,L4N 9C2,0.34,0.77
+796,St. Joseph's Catholic High School,796,Barrie,L4M 6L1,0.27,0.73
+797,St Peter's SS,"1,240",Barrie,L4N 6A3,0.37,0.72
+798,St Theresas Sep S,999,Midland,L4R 5B2,0.41,0.73
+800,All Saints Catholic SS,806,Whitby,L1P 1M1,0.49,0.85
+801,Archbishop Denis O'Connor Catholic HS,670,Ajax,L1S 5H4,0.46,0.81
+802,Father Leo J Austin Catholic SS,971,Whitby,L1R 2A2,0.59,0.88
+803,Monsignor John Pereyma Catholic SS,426,Oshawa,L1H 3S6,0.46,0.76
+804,Notre Dame Catholic SS,"1,123",Ajax,L1T 4G8,0.39,0.84
+805,Monsignor Paul Dwyer Catholic HS,823,Oshawa,L1J 5P5,0.23,0.7
+806,St Mary Catholic HS,"1,581",Pickering,L1V 1R9,0.3,0.77
+809,Assumption Roman Catholic SS,939,Burlington,L7N 3P1,0.43,0.84
+810,Bishop Paul Francis Reding SS,"1,646",Milton,L9T 6H7,0.47,0.91
+811,Christ the King Catholic SS,"1,656",Georgetown,L7G 4A6,0.65,0.9
+812,Holy Trinity Catholic SS,"1,239",Oakville,L6H 5Z8,0.46,0.85
+813,Notre Dame Roman Catholic SS,"1,010",Burlington,L7M 3X6,0.49,0.84
+814,Corpus Christi Secondary School,"1,049",Burlington,L7L 0E5,0.52,0.92
+815,St Ignatius of Loyola SS,"1,255",Oakville,L6M 1S2,0.55,0.88
+816,St Thomas Aquinas Roman Catholic SS,"1,321",Oakville,L6K 2W1,0.41,0.84
+817,Bishop Tonnos Catholic SS,"1,137",Ancaster,L9G 5E3,0.56,0.93
+818,Bishop Ryan Catholic SS,"1,934",Hannon,L0R 1P0,0.38,0.78
+819,St. John Henry Newman Catholic Secondary School,"1,496",Stoney Creek,L8G 3V3,0.6,0.87
+820,Cathedral High School,"1,250",Hamilton,L8L 8H5,0.25,0.71
+821,St Jean de Brebeuf SS,"1,483",Hamilton,L8W 1B8,0.42,0.77
+822,St. Mary’s Catholic SS,"1,000",Hamilton,L8S 2G7,0.51,0.88
+823,St Thomas More Catholic SS,"1,966",Hamilton,L9B 2N4,0.32,0.76
+824,Bishop Macdonell Catholic High School,763,Guelph,N1L 1G1,0.66,0.89
+825,Our Lady of Lourdes Sep S,707,Guelph,N1H 5H7,0.69,0.95
+826,St James HS,856,Guelph,N1E 5G9,0.42,0.78
+827,Monsignor Doyle Catholic SS,"1,002",Cambridge,N1R 7H2,0.45,0.82
+828,Resurrection Catholic SS,"1,317",Kitchener,N2N 3B9,0.69,0.88
+829,St Benedict Catholic SS,"1,518",Cambridge,N1R 5W1,0.52,0.85
+830,St David Catholic SS,980,Waterloo,N2L 3X5,0.62,0.84
+831,St Mary's HS,"1,945",Kitchener,N2C 2S2,0.52,0.81
+832,Blessed Trinity Catholic Secondary School,"1,021",Grimsby,L3M 5J6,0.38,0.82
+833,Denis Morris Catholic High School,955,St Catharines,L2T 2M9,0.42,0.87
+834,Holy Cross Catholic Secondary School,629,St Catharines,L2M 2P9,0.33,0.81
+835,Lakeshore Catholic High School,872,Port Colborne,L3K 2E7,0.38,0.75
+836,Notre Dame College School,"1,234",Welland,L3C 4H4,0.36,0.78
+837,Saint Paul Catholic High School,771,Niagara Falls,L2J 2Y5,0.48,0.9
+838,Saint Michael Catholic High School,921,Niagara Falls,L2E 6S5,0.62,0.95
+839,Saint Francis Catholic Secondary School,578,St Catharines,L2N 4H7,0.75,0.87
+840,Assumption College S,"1,443",Brantford,N3T 0G7,0.57,0.86
+841,Holy Trinity Catholic HS,959,Simcoe,N3Y 4N5,0.55,0.87
+842,St John's College,"1,098",Brantford,N3R 1H9,0.5,0.77
+843,Holy Trinity Catholic SS,536,Cornwall,K6H 5S7,0.54,0.95
+845,St Thomas Aquinas Secondary School,397,Russell,K4R 1E5,0.81,0.96
+846,Notre Dame Catholic HS,489,Carleton Place,K7C 4P2,0.5,0.82
+847,St Francis Xavier Catholic HS,272,Hammond,K0A 2A0,0.4,0.75
+848,St. Luke Catholic HS,115,Smiths Falls,K7A 3Z9,0.21,0.95
+849,St John Catholic HS,415,Perth,K7H 3C5,0.4,0.8
+850,St Joseph's SS,726,Cornwall,K6J 5V9,0.42,0.87
+851,St Mary's HS,493,Brockville,K6V 4N5,0.49,0.85
+852,St Michael HS,474,Kemptville,K0G 1J0,0.68,0.91
+853,L B Pearson Catholic HS,591,Gloucester,K1J 8M5,0.32,0.83
+854,St Paul HS,503,Ottawa,K2H 7A1,0.51,0.86
+855,St Matthew HS,647,Orleans,K1C 2S9,0.43,0.89
+856,Immaculata HS,593,Ottawa,K1S 5P4,0.52,0.93
+857,Holy Trinity Catholic HS,928,Kanata,K2L 4A7,0.77,0.92
+858,All Saints Catholic HS,952,Kanata,K2K 3K5,0.68,0.93
+859,St. Mother Teresa,"1,100",Nepean,K2J 4T1,0.52,0.93
+860,Sacred Heart HS,"1,123",Stittsville,K2S 1X4,0.51,0.9
+861,St Joseph Catholic HS,899,Nepean,K2J 4J1,0.54,0.91
+862,Notre Dame HS,492,Ottawa,K2A 2M2,0.3,0.71
+863,St Patrick's HS,816,Ottawa,K1V 7T3,0.46,0.8
+865,St Peter Catholic HS,"1,186",Orleans,K4A 3M4,0.41,0.88
+866,St Pius X Sep S,906,Ottawa,K2C 1X4,0.44,0.92
+867,St Marks HS,699,Manotick,K4M 1B2,0.63,0.88
+868,Bishop Smith Catholic HS,626,Pembroke,K8A 4G2,0.58,0.85
+869,St Joseph's HS,471,Renfrew,K7V 4E1,0.86,0.96
+870,Holy Cross Catholic SS,"1,047",Kingston,K7P 2V9,0.49,0.82
+871,Regiopolis/Notre-Dame S,"1,018",Kingston,K7K 2E9,0.65,0.91
+872,Nicholson Catholic College,448,Belleville,K8N 3C7,0.4,0.76
+873,St Paul Catholic SS,329,Trenton,K8V 6M2,0.46,0.84
+874,St Theresa SS,723,Belleville,K8N 5K3,0.26,0.68
+875,ÉS E J Lajeunesse,482,Windsor,N9E 1A5,0.26,0.89
+877,l'École secondaire Notre-Dame,84,Woodstock,N4T 0E4,0.19,0.6
+878,ÉS de Pain Court,252,Paincourt,N0P 1Z0,0.33,0.72
+879,ÉS Monseigneur Bruyère,213,London,N5Y 4K4,0.26,0.92
+880,ÉS L'Essor,679,Tecumseh,N8N 3E4,0.29,0.81
+881,ÉS Saint-François-Xavier,105,Sarnia,N7S 6K2,0.46,0.89
+882,ÉSAC Mère-Teresa,186,Hamilton,L8T 4Y4,0.57,0.85
+883,ÉSC Renaissance,458,Aurora,L4G 0E1,0.56,0.96
+884,ÉSC Saint-Charles-Garnier,311,Whitby,L1R 2W6,0.69,0.97
+885,ÉSC Mgr-de-Charbonnel,232,Toronto,M2M 1C8,0.42,0.95
+886,ÉSC Nouvelle Alliance,284,Barrie,L4N 0B5,0.39,0.78
+887,ÉSC Père-René-de-Galinée,328,Cambridge,N3H 4R7,0.54,0.86
+888,ÉSC Jean-Vanier,424,Welland,L3B 5N4,0.32,0.82
+889,ÉSC Sainte-Famille,465,Mississauga,L5N 7K8,0.5,0.9
+890,École secondaire catholique de Casselman,538,Casselman,K0A 1M0,0.58,0.87
+891,ÉS Embrun,417,Embrun,K0A 1W0,0.5,0.89
+893,ÉS Hawkesbury,401,Hawkesbury,K6A 2P3,0.31,0.71
+894,ÉS La Citadelle,372,Cornwall,K6H 4M1,0.33,0.86
+895,ÉS L'Escale,517,Rockland,K4K 1C3,0.49,0.92
+896,ÉS Plantagenet,232,Plantagenet,K0B 1L0,0.49,0.85
+897,ÉS Le Relais,180,Alexandria,K0C 1A0,0.41,0.86
+898,ÉS C Collège catholique Franco-Ouest,515,Nepean,K2H 8X1,0.41,0.9
+899,ÉS C Collège catholique Samuel-Genest,700,Ottawa,K1K 2H3,0.58,0.88
+900,ÉS C Jeanne-Lajoie,201,Pembroke,K8A 5R3,0.78,0.93
+901,ÉS C Franco-Cité,853,Ottawa,K1G 1N7,0.45,0.88
+902,ÉS C Béatrice-Desloges,886,Orléans,K4A 3Y6,0.61,0.92
+903,ÉS C Centre professionnel et technique Minto,65,Ottawa,K1K 4R3,0.93,1
+904,ÉS C Garneau,708,Orléans,K1C 1J4,0.65,0.95
+905,ÉS C Marie-Rivier,141,Kingston,K7M 8N6,0.45,0.95
+1101,St Maximilian Kolbe CHS,"1,334",Aurora,L4G 1J5,0.45,0.83
+1102,Our Lady Queen of the World Catholic Academy,790,Richmond Hill,L4C 3P2,0.46,0.88
+1104,St Roch Catholic SS,"1,412",Brampton,L6X 0N3,0.54,0.91
+1105,Cardinal Ambrozic Cath SS,"1,335",Brampton,L6P 3A2,0.58,0.92
+1108,Superior Collegiate and Vocational Institute,545,Thunder Bay,P7A 5S3,0.37,0.92
+1112,Maxwell Heights Secondary School,"1,642",Oshawa,L1K 0N1,0.7,0.92
+1113,École secondaire Roméo Dallaire,118,Barrie,L4N 9E9,0.73,0.83
+1122,Superior Heights CVS,800,SaultSte. Marie,P6B 2C5,0.31,0.77
+1123,St. Michael Catholic Secondary School,"1,194",Bolton,L7E 4G6,0.5,0.88
+1148,David Suzuki Secondary School,"1,621",Brampton,L6X 0Z3,0.41,0.8
+1151,Nottawasaga Pines Secondary School,735,Angus,L0M 1B1,0.56,0.79
