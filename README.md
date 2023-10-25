@@ -7,6 +7,7 @@ The repository includes the following files:
 
 * scraper.py: A Python script that scrapes EQAO test scores from the EQAO website and saves the data as a CSV file.
 * eqao_analysis.ipynb: A Jupyter notebook that analyzes the scraped EQAO test scores and creates visual graphs using Matplotlib.
+* data_analysis.ipynb: A Jupyter notebook that analyzes the scraped EQAO test scores and creates visual graphs.
 * eqao_data.csv: A CSV file containing the scraped EQAO test scores.
 * graphs/: A directory containing visual graphs created by the eqao_analysis.ipynb notebook.
 * sheets/: A directory containing csv files for the scraped data.
